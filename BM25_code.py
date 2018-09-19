@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[2]:
-
 import gensim
 from gensim import corpora
 import math
